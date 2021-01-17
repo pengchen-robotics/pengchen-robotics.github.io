@@ -1,3 +1,13 @@
+# for pelican
+assets/
+misc/
+# config file for this repository
+local-config.yml
+# pelican output
+output/
+# python stuff
+__pycache__
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
